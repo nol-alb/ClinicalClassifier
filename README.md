@@ -19,3 +19,7 @@ An internship task for the team of Niraj Anil, Noel Alben, Sai Deepika, and J Su
 To run the relavent models kindly ensure that the requirements.txt is satisfied on your local system. <br>Run the command:
 <pre><code>pip install -r requirements.txt
 </code></pre>
+
+## Example
+[id]: "ClinicalClassifier/Images/Screenshot 2021-07-07 at 7.25.29 PM.png" "Clinical Named Entity Recognition and Classification usingCliNER"
+
