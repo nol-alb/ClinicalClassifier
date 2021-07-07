@@ -21,5 +21,6 @@ To run the relavent models kindly ensure that the requirements.txt is satisfied 
 </code></pre>
 
 ## Example
+The figure below showcases a Named Entity recogniton task performed on clinical text data using the CliNER model.<br>
 ![Alt text](https://github.com/nol-alb/ClinicalClassifier/blob/main/Images/Screenshot%202021-07-07%20at%207.25.29%20PM.png "Named Entity Recognition and Classification using CliNER")
 
