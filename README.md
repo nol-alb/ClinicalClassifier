@@ -16,6 +16,5 @@ An internship task for the team of Niraj Anil, Noel Alben, Sai Deepika, and J Su
 
 ## System Dependency
 To run the relavent models kindly ensure that the requirements.txt is satisfied on your local system. <br>Run the command:
-<pre><code>
-pip install -r requirements.txt
+<pre><code>pip install -r requirements.txt
 </code></pre>
