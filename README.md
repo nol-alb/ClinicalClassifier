@@ -1,7 +1,7 @@
 # Deep Learning Models for Identification of Key Medical Classifier Terms from EHR related to Cardiology [Numen Health Internship]
 
 ## OVERVIEW
-An internship task for the team of Niraj Anil, Noel Alben, Sai Deepika, and J Sumanth to train and test various deep learning models for the identification and extraction of key medical terms from electronic health records (EHR’s) related to Cardiology, to be later used as a feature in the mobile application.
+An internship task for the team of Noel Alben, Niraj Anil, Sai Deepika, and J Sumanth to train and test various deep learning models for the identification and extraction of key medical terms from electronic health records (EHR’s) related to Cardiology, to be later used as a feature in the mobile application.
 
 ## GOALS ACHEIVED
 1. Find and implement methods to extract medical terms and classifiers from SNOMED CT for purposes of identifying Key Medical Classifier terms from free text.
