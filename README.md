@@ -21,5 +21,5 @@ To run the relavent models kindly ensure that the requirements.txt is satisfied 
 </code></pre>
 
 ## Example
-[id]: "ClinicalClassifier/Images/Screenshot 2021-07-07 at 7.25.29 PM.png" "Clinical Named Entity Recognition and Classification usingCliNER"
+![Alt text](https://github.com/nol-alb/ClinicalClassifier/blob/main/Images/Screenshot%202021-07-07%20at%207.25.29%20PM.png "Named Entity Recognition and Classification using CliNER")
 
