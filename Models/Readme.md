@@ -1,10 +1,10 @@
 # Deep Learning Models for Identification of Key Medical Classifier Terms from EHR related to Cardiology
 
 This directory contains example code and trained datasets for Clinical Named Entity recognition using:
-1. CliNER
-2. MedTextClassification 
-3. SpaCy
-4. Word2Vec
+1. [CliNER](/https://github.com/nol-alb/ClinicalClassifier/tree/main/Models/CliNER)
+2. [MedTextClassification](https://github.com/nol-alb/ClinicalClassifier/tree/main/Models/MedTextClassification)
+3. [SpaCy](https://github.com/nol-alb/ClinicalClassifier/tree/main/Models/Spacy)
+4. [Word2Vec](https://github.com/nol-alb/ClinicalClassifier/tree/main/Models/Word2Vec)
 
 Additionally this task was implemented using open source resources available on repositories linked below:<br>
 ### 1. BIOBERT: <br>
@@ -15,5 +15,9 @@ BioBERT is a biomedical language representation model designed for biomedical te
 GitHub repository link:  https://github.com/dmis-lab/biobert 
 
 </p>
+
+### 2. MEDCAT: <br>
+<p>
+ </p>
 
 
