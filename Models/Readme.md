@@ -20,7 +20,7 @@ Github repository link:  https://github.com/dmis-lab/biobert
 <p>
 Medical Concept Annotation Tool (MedCAT), is an open-source unsupervised approach to NER+L (Named Entity Recognition and Linking). MedCAT uses unsupervised machine learning to disambiguate entities. It was validated on MIMIC-III (a freely accessible critical care database) and MedMentions (Biomedical papers annotated with mentions from the Unified Medical Language System). <br>
  
- Github repository link: https://github.com/CogStack/MedCAT
+ Github repository link: https://github.com/CogStack/MedCAT <br>
  A demo application is available at https://medcat.rosalind.kcl.ac.uk/
  </p>
 
