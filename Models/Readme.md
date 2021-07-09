@@ -1,7 +1,7 @@
 # Deep Learning Models for Identification of Key Medical Classifier Terms from EHR related to Cardiology
 
 This directory contains example code and trained datasets for Clinical Named Entity recognition using:
-1. [CliNER](/https://github.com/nol-alb/ClinicalClassifier/tree/main/Models/CliNER)
+1. [CliNER](https://github.com/nol-alb/ClinicalClassifier/tree/main/Models/CliNER)
 2. [MedTextClassification](https://github.com/nol-alb/ClinicalClassifier/tree/main/Models/MedTextClassification)
 3. [SpaCy](https://github.com/nol-alb/ClinicalClassifier/tree/main/Models/Spacy)
 4. [Word2Vec](https://github.com/nol-alb/ClinicalClassifier/tree/main/Models/Word2Vec)
